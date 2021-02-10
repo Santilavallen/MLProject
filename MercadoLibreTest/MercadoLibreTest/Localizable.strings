@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  MercadoLibreTest
+
+  Created by c08712 on 08/02/2021.
+  
+*/
+
+//Error
+"ml_error_message" = "Ha ocurrido un error, reintente nuevamente mas tarde.";
+"ml_search_empty_error" = "El campo de busqueda no puede estar vacio.";
+"ml_search_not_valid" = "La busqueda debe contener almenos 2 caracteres alfanumericos.";
+
+//Item List
+"ml_item_list_empty_error" = "No se encontraron productos para la busqueda.";
+
+//Item Detail
+"ml_item_detail_new_header" = "Nuevo | ";
+"ml_item_detail_used_header" = "Usado | ";
+
+
+//Test
+"ml_seller_info_service_mock_response" = "MercadoLibre";
+"ml_seller_info_service_mock_fail_error" = "Seller info fail";
+"ml_succes_item_search" = "Motorola";
